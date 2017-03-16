@@ -1,5 +1,2 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+PortRepeater/bin
+PortRepeater/obj
